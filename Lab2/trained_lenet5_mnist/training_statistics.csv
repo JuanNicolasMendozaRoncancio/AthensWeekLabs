@@ -1,0 +1,15 @@
+Parameter,Value
+x_train_mean,-3.4560264e-07
+x_train_std,0.9999998
+input_shape,"(28, 28, 1)"
+output_shape,10
+num_kernel_first_conv_layer,18
+num_kernel_second_conv_layer,48
+kernel_size,"(5, 5)"
+pool_size,"(2, 2)"
+batch_size,20
+epochs,10
+final_train_accuracy,0.9906666874885559
+final_val_accuracy,0.9889000058174133
+final_train_loss,0.03199423477053642
+final_val_loss,0.03314496949315071
